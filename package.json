@@ -41,7 +41,7 @@
     "test:unit:watch": "cross-env NODE_ENV=test babel-node test/watch.js unit"
   },
   "peerDependencies": {
-    "react": "^15.4.0",
+    "react": "^15.5.0",
     "react-dom": "^15.4.0",
     "react-tap-event-plugin": "^2.0.1"
   },
